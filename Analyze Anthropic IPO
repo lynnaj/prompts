@@ -1,0 +1,32 @@
+Act as an expert Wall Street equity research analyst and tier-one technology venture capitalist. Analyze the provided Anthropic prospectus/S1 filing and deliver a comprehensive, institutional-grade evaluation. 
+
+Focus on identifying hidden risks, structural advantages, and financial sustainability. Structure your analysis into the following distinct sections, using clear headings and bullet points:
+
+1. Executive Summary & Top Takeaway
+- Provide a 2-paragraph macro summary of the offering.
+- Bold the core thesis, implied valuation, and primary investment risk.
+
+2. Financial Health & Unit Economics
+- Revenue Trajectory: Analyze top-line growth, annualized run rate, and historical trends.
+- Cost of Revenue & Gross Margins: Detail the compute costs (training vs. inference) and cloud provider dependencies (AWS, Google).
+- Cash Burn & Runway: Calculate the net burn rate and estimate how long current cash reserves will last.
+- Capital Structure: Note the different share classes, founder voting control, and major institutional stakeholders.
+
+3. Core Product & Competitive Moats
+- Model Performance vs. Cost: How does their current model lineup fare against competitors (OpenAI, Google, Meta) on a cost-to-performance basis?
+- Enterprise Traction: Analyze metrics around enterprise customer adoption, net revenue retention (NRR), and contract concentration risks.
+- The Constitutional AI Advantage: Evaluate if their safety-first focus is translating into a quantifiable commercial moat or an operational bottleneck.
+
+4. Strategic Cloud & Compute Relationships
+- Hyperscaler Commitments: Deconstruct the equity-for-compute deals with Amazon and Google. 
+- Strategic Constraints: What are the clawback provisions, exclusive hosting agreements, or minimum spend commitments? Who truly captures the value?
+
+5. Regulatory, Legal, and Tail-Risk Assessment
+- Copyright & Litigation: Evaluate exposure to ongoing or pending intellectual property lawsuits.
+- Safety Regulations: Assess how upcoming global AI governance frameworks could impact their product roadmap or speed-to-market.
+
+6. Final Investment Verdict
+- Provide a ranked list of 3 Core Strengths and 3 Critical Red Flags.
+- Conclude with a clear, trend-justified recommendation (Bull Case vs. Bear Case) for an institutional investor.
+
+Attached is the Anthropic S-1 form and prospectus.
